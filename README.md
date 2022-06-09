@@ -53,7 +53,7 @@ My name is Ahmed Yahia, a passionate, fast learner, and analytical engineer who 
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title = "FastAPI" alt = "FastAPI"  width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title = "Docker" alt="Docker" width="50" height="40"/>&nbsp;             
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title = "git" alt = "git" width="40" height="40"/>&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" title = "PowerBi" alt = "PowerBi" width="40" height="40"/>&nbsp;                                                                                   
+  <img src="https://images.squarespace-cdn.com/content/v1/57aa0fb1b3db2bbe2dfb5840/1620665857587-ZO41QWCQ5UJOAQSZ1EFX/Power+BI+Logo.png" title = "PowerBi" alt = "PowerBi" width="40" height="40"/>&nbsp;                                                                                   
   <br/> 
   <br/>                                                                                                                           
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-original.svg" alt="Linux" title="Linux" height="50" width="40"/>
