@@ -19,7 +19,7 @@
 
 <!-- Introduction -->
 ## 👨‍💻 About Me :
-My name is Ahmed Yahia, a passionate, fast learner, and analytical engineer who loves machine learning, data science, and shipping technology with agility at a massive scale.
+HI! My name is Ahmed Yahia. A passionate and fast learner engineer who is highly interested in the fields of machine learning, data science, and data analysis. Always looking forward to new opportunities to apply my skills to solve real-world problems, and meet people that share the same interests.
 - 🔭 I’m currently searching for a job as Data Scientist or Machine Learning Engineer.
 - 🔭 I’m working as a Data Scientist freelancer at Upwork.
 - ⚡  In my free time, I solve problems on Leetcode.  
